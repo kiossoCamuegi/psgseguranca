@@ -11,8 +11,7 @@ import ClientsSlider from '../Components/ClientsSlider'
 import Achivements from '../Components/Achivements'
 import Testimonials from '../Components/Testimonials'
 
-function Home() {
-  document.title = "Future Healthcare";
+function Home() { 
   return (
     <div>
         <Navbar />
